@@ -1,0 +1,14 @@
+{
+    "name": "beestreams/laravelratable",
+    "description": "Make Laravel models ratable",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Biström",
+            "email": "studiotriangular@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
